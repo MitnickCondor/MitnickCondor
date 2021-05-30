@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MitnickCondor
 - 👀 I’m interested in ... 🏹 🌱🌶️ 🐝
 - 🌱 I’m currently learning ... Vue.js; Python (OpenCV); ...
-- 💞️ I’m looking to collaborate on ... www.shopware.com / www.8mylez.com
 - 📫 How to reach me ... +49 163 155 0787
 
 <!---
